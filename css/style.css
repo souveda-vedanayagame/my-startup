@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/faq.css");
+@import url("components/garantie.css");
+@import url("components/confiance.css");
+@import url("components/reseaux_sociaux.css");
+
+
+#titre{
+
+	font-family: 'Source Sans Pro', serif;
+	font-weight: bold;
+	padding: 20px;
+	color: white;
+
+
+}
+
+body{
+
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	
+
+}
+
+
+h1,h2,h3 {
+
+	font-family: 'Source Sans Pro', serif;
+	font-weight: bold;
+	
+
+}
+
+h1,h2{
+	color: #159895;
+
+	
+}
+
+a{
+
+	text-decoration: none;
+
+
+}
+
+h2{
+
+	text-align: center;
+}
+
+

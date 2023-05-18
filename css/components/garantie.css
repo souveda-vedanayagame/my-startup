@@ -1,0 +1,60 @@
+
+
+.garantie::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.garantie h3 {
+  
+  margin-top: 50px;
+  color:#95BDFF;
+}
+
+.garantie h2{
+
+	text-align: center;
+}
+
+#service{
+
+	margin-top: 100px;
+}
+
+.garantie p {
+  line-height: 1.4;
+  text-align: justify;
+
+}
+
+.garantie img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border-style: double;
+  
+  float: left;
+  shape-outside: margin-box;
+  margin: 0 20px 5px 0;
+}
+
+/*lettrine paragraphes
+.garantie p::first-letter{
+  font-size: 60px;
+  color: #c1b696;
+  float: left;
+  margin-right: 8px;
+} */
+
+/*mise en valeur selection texte*/
+
+.garantie p::selection{
+  color: white;
+  background: #c1b696;
+}
+
+
+
+
